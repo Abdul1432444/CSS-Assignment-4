@@ -278,7 +278,7 @@ margin-right: 250px
 
   }
   .page1card{
- 
+  cursor: pointer;
     width: 160px;
     height: 220px;
     background-color: rgb(255, 255, 255);
@@ -605,6 +605,7 @@ align-items: center;
     line-height: 50px;
  }
  .page6-card1-btn{
+  cursor: pointer;
     font-weight: bold;
     background-color: transparent;
     color: #e47c3c;
@@ -649,6 +650,7 @@ align-items: center;
  }
  /* page 7 cards styling */
  .page7-cards{
+  cursor: pointer;
     display: flex;
     margin-top: 40px;
     justify-content: center;
